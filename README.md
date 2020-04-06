@@ -1,27 +1,27 @@
 # PHP bots
-Php ile farklı amaçlar için kullanılabilecek botlar.
-Siteler 
-colorlib.com
-cssauthor.com
-themezy.com
-themewagon.com
-zerotheme.com
-instagram içerik alma (apisiz-without api)
-instagram hashtag (apisiz-without api)
-instagram_phpbb_bot (phpbb başlık açan bot)
-freehtml5.co
-bootstrapmade.com
-dunyagazetesi.com
-usatoday.com
-brightside.me
-amerikaninsesi.com
-codeproject.com/Tags/PHP
-sanalkurs.net
-unilad.co.uk
-gsgazete.com
-businessinsider.com
-futurism.com
-teknolojioku.com
-free-css.com
-
+Php ile farklı amaçlar için kullanılabilecek botlar.<br>
+Siteler <br>
+colorlib.com<br>
+cssauthor.com<br>
+themezy.com<br>
+themewagon.com<br>
+zerotheme.com<br>
+instagram içerik alma (apisiz-without api)<br>
+instagram hashtag (apisiz-without api)<br>
+instagram_phpbb_bot (phpbb başlık açan bot)<br>
+freehtml5.co<br>
+bootstrapmade.com<br>
+dunyagazetesi.com<br>
+usatoday.com<br>
+brightside.me<br>
+amerikaninsesi.com<br>
+codeproject.com/Tags/PHP<br>
+sanalkurs.net<br>
+unilad.co.uk<br>
+gsgazete.com<br>
+businessinsider.com<br>
+futurism.com<br>
+teknolojioku.com<br>
+free-css.com<br>
+<br>
 Kullanımı tamamen kişiye özeldir ve eğitim amaçlı yapılmıştır.
