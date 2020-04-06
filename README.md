@@ -1,2 +1,2 @@
 # bots
-PHP Bots
+Php ile farklı amaçlar için kullanılabilecek botlar.
